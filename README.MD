@@ -4,11 +4,12 @@ Em là Duy Hòa viết dự án này làm dự án kiểm tra đầu vào cho v�
 
 # Tải project
 ``` git clone https://github.com/DHoa0202/AddTwoNum.git ```
+
 <hr/>
 
 # Chạy trực tiếp thông qua phương thức main
 
-[main](./src/main/java/com/Add2Num.java) sử dụng logging kiểm tra kết quả của 2 tham số truyền vào
+[main](./src/main/java/com/Add2Num.java) sử dụng logging kiểm tra kết quả của 2 tham số truyền vào<br/>
 [core](./src/main/java/com/MyBigNumber.java) là lõi sử dụng cộng hai chuỗi với phương thức đệ qui
 <hr/>
 
@@ -17,7 +18,7 @@ Em là Duy Hòa viết dự án này làm dự án kiểm tra đầu vào cho v�
 ! trước khi chạy project tải thư viện giúp em để tải thư viện (junit v4.13.1)
 ```
 
-[test](./src/test/java/test/TestAddTwoNums.java) để thực hiện chương trình test junit
+[test](./src/test/java/test/TestAddTwoNums.java) để thực hiện chương trình test junit <br/>
 [data](./src/test/java/test/TestData.java) là phần dữ liệu để test unit với 4 params sau
 
 ```
