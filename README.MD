@@ -1,5 +1,5 @@
 # AddTwoNum
-Em là Duy Hòa viết dự án này làm dự án kiểm tra đàu vào cho vị trí thực tập sinh tại `Cổ Phần Công nghệ Tiên Phong ITDG.`
+Em là Duy Hòa viết dự án này làm dự án kiểm tra đầu vào cho vị trí thực tập sinh tại `Cổ Phần Công nghệ Tiên Phong ITDG.`
 <hr/>
 
 # Tải project
