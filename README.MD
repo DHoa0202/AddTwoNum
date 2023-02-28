@@ -16,16 +16,14 @@ git clone https://github.com/DHoa0202/AddTwoNum.git
 <hr/>
 
 # UNIT TEST-CASE
-```diff
-! trước khi chạy project tải thư viện giúp em để tải thư viện (junit v4.13.1)
-```
+```diff ! trước khi chạy project tải thư viện giúp em để tải thư viện (junit v4.13.1) ```
 
 [test](./src/test/java/test/TestAddTwoNums.java) để thực hiện chương trình test junit <br/>
 [data](./src/test/java/test/TestData.java) là phần dữ liệu để test unit với 4 params sau
 
-```diff
+`
 - stn1 : tham số thứ nhất kiểu String
 - stn2 : tham số thứ hai kiểu String
 - result: kết quả mong muốn của hai tham số sau khi thực hiện sum(stn1, stn2)
 - isSuccess: để kiểm tra kết quả sum(stn1, stn2) == result hay không
-```
+`
