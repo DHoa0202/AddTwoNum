@@ -13,10 +13,11 @@ git clone https://github.com/DHoa0202/AddTwoNum.git
 
 [main](./src/main/java/com/Add2Num.java) sử dụng logging kiểm tra kết quả của 2 tham số truyền vào<br/>
 [core](./src/main/java/com/MyBigNumber.java) là lõi sử dụng cộng hai chuỗi với phương thức đệ qui
+
 <hr/>
 
 # UNIT TEST-CASE
-! trước khi chạy project tải thư viện giúp em để tải thư viện (junit v4.13.1)
+`trước khi chạy project tải thư viện giúp em để tải thư viện (junit v4.13.1)`
 
 [test](./src/test/java/test/TestAddTwoNums.java) để thực hiện chương trình test junit <br/>
 [data](./src/test/java/test/TestData.java) là phần dữ liệu để test unit với 4 params sau
