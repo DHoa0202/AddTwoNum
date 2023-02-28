@@ -2,7 +2,7 @@
 Em là Duy Hòa viết dự án này làm dự án kiểm tra đầu vào cho vị trí thực tập sinh tại `Cổ Phần Công nghệ Tiên Phong ITDG.`
 <hr/>
 
-# Tải project
+# Cài đặt project
 ```
 git clone https://github.com/DHoa0202/AddTwoNum.git
 ```
