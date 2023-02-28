@@ -6,7 +6,7 @@ import java.util.List;
 public class TestData {
 
     static final List<Object[]> data = Arrays.asList(
-            new Object[][]{ // {stn1, stn2, result}
+            new Object[][]{ // {stn1, stn2, result, isSuccess}
                 // du lieu dung ket qua
                 {"0", "0", "0", true}, {"0", "21", "21", true},
                 {"942", "0", "942", true}, {"021822", "298", "022120", true},
