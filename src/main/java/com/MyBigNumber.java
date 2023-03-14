@@ -10,7 +10,7 @@ public class MyBigNumber {
 
     // Hàm đệ qui => cắt dần "stn1" và "stn2" => // thêm tổng và lượt trước vào "result"
     /**
-     * Em sài đệ qui vì kết quả gọi đầu tiên sẽ được đẩy xuống cuối cùng phụ hợp
+     * Em sài đệ qui vì kết quả gọi đầu tiên sẽ được đẩy xuống cuối cùng phù hợp
      * cho việc cắt bớt ký tự từ phải qua trái
      *
      * @param result: kết quả được cộng lại qua các lần đệ qui
